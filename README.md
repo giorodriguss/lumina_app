@@ -1,16 +1,48 @@
-# lumina_app
+# Lumina – Aplicativo de Autoconhecimento baseado em TCC
 
-A new Flutter project.
+O **Lumina** é um aplicativo desenvolvido em Flutter com foco em autoconhecimento emocional. Baseado em princípios da **Terapia Cognitivo-Comportamental (TCC)**, o app permite registrar situações, emoções, pensamentos automáticos e respostas racionais para auxiliar o usuário a lidar melhor com situações do dia a dia.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Objetivo
 
-A few resources to get you started if this is your first Flutter project:
+Oferecer um diário estruturado que ajude o usuário a organizar seus pensamentos e emoções, promovendo clareza emocional e desenvolvimento pessoal.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧠 Funcionalidades
+
+- Registro de situação vivida  
+- Identificação e intensidade da emoção  
+- Pensamentos automáticos  
+- Resposta racional (reestruturação cognitiva)  
+- Histórico de registros  
+- Interface moderna com Material Design 3  
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+**Framework:**  
+- Flutter 3.x
+
+**Linguagem:**  
+- Dart 3.x
+
+**Interface (UI):**  
+- Material Design 3 (Material You)
+
+**Gerenciamento de Estado:**  
+- Nativo (StatefulWidget + setState)
+
+---
+
+## 📂 Layout
+
+![Detalhes](Detalhes-1.jpg)
+![Esqueceu_Senha](Esqueceu_Senha-2.jpg)
+![Cria_conta](Cria_conta-1.jpg)
+![login](login.jpg)
+![novo_registro](novo_registro.jpg)
+![perfil](perfil.jpg)
+![home](home.jpg)
